@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [JEFS]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:\Users\balard\OneDrive - Capgemini\Desktop\New folder\SeleniumPractice\Judicary_Regression\src\test\java\Tests(failed)">
+    <classes>
+      <class name="Tests.TestCases_Run">
+        <methods>
+          <include name="JEFS_Create_Case_AB"/>
+          <include name="JEFS_Create_Case_AB"/>
+        </methods>
+      </class> <!-- Tests.TestCases_Run -->
+    </classes>
+  </test> <!-- C:\Users\balard\OneDrive - Capgemini\Desktop\New folder\SeleniumPractice\Judicary_Regression\src\test\java\Tests(failed) -->
+</suite> <!-- Failed suite [JEFS] -->
